@@ -1,4 +1,3 @@
-<img width="402" alt="Screenshot 2024-06-29 at 11 36 31" src="https://github.com/KelliaKamikazi/SignUpLoginCalculator/assets/115183307/be7f8def-e8de-4d45-b08d-abf3129ec680"># signuplogincalculator24772
 
 A new Flutter project.
 
@@ -17,12 +16,19 @@ samples, guidance on mobile development, and a full API reference.
 
 
 These are screenshots of how this application looks 
+
+
+
+The hamburger menu
 <img width="407" alt="Screenshot 2024-06-29 at 11 36 14" src="https://github.com/KelliaKamikazi/SignUpLoginCalculator/assets/115183307/5c661af3-1e15-4540-8398-665c48cb52be">
 
+The Signup 
 <img width="402" alt="Screenshot 2024-06-29 at 11 36 31" src="https://github.com/KelliaKamikazi/SignUpLoginCalculator/assets/115183307/5c586e29-03ae-46d7-b3f1-02ba2b44fd81">
 
+The Login 
 <img width="417" alt="Screenshot 2024-06-29 at 11 36 56" src="https://github.com/KelliaKamikazi/SignUpLoginCalculator/assets/115183307/e3049d60-8c75-431b-a714-65d8116ac17a">
 
+The calculator 
 <img width="392" alt="Screenshot 2024-06-29 at 11 37 16" src="https://github.com/KelliaKamikazi/SignUpLoginCalculator/assets/115183307/2bb1d22c-0ba8-472c-a044-2a635332eb85">
 
 
